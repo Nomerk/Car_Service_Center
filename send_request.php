@@ -84,7 +84,7 @@ require_once('config.php');
                 </div>
                 <div class="form-group" style="display:none">
                     <label for="pickup_address" class="control-label">Pick up Address</label>
-                    <textarea rows="3" name="pickup_address" id="pickup_address" class="form-control form-control-sm rounded-0" style="resize:none" required></textarea>
+                    <textarea rows="3" name="pickup_address" id="pickup_address" class="form-control form-control-sm rounded-0" style="resize:none"></textarea>
                 </div>
             </div>
         </div>

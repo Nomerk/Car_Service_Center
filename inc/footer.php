@@ -62,7 +62,7 @@
 <footer class="py-5 bg-dark">
             <div class="container">
               <p class="m-0 text-center text-white">Copyright &copy; <?php echo $_settings->info('short_name') ?> 2022</p>
-              <p class="m-0 text-center text-white">Developed By: <a href="mailto:sureshkumardp48@gmail.com">Suresh Kumar</a></p>
+              <p class="m-0 text-center text-white">Hubungi Kami Di: <a href="https://wa.me/6281914594623?text=Halo%20Rayyns%20Garage%2C%20saya%20ingin%20memesan%20layanan.">Whatsapp</a></p>
           </div>
         </footer>
 
